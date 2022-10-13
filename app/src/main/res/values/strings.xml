@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ExampleListView</string>
+    <string name="menu_add">Add Random</string>
+    <string name="menu_sort">Sort</string>
+    <string name="itemSaveButton">Save</string>
+</resources>
